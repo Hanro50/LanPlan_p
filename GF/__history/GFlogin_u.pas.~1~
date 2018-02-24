@@ -127,7 +127,9 @@ procedure TLwin.lblPromptClick(Sender: TObject);
 begin                                           //easter egg
 if easter then
 begin
-mll.Message_Show('Programed by hanro50');
+mll.Message_Show('Copywrite HANCORP');
+mll.Message_Show('Programer : HANRO LAREMAN');
+mll.Message_Show('Do not fork code without permission');
 easter:=false;
 end;
 end;
