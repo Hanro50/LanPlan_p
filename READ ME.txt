@@ -1,0 +1,4 @@
+1) You're required to have "Microsoft Access Database Engine 2010 Redistributable" package installed in oreder to run these package
+https://www.microsoft.com/en-za/download/details.aspx?id=13255
+
+2) When opening the editor...open DMMainLinkLibary_u.pass first or else the editor will forget it exists. Its due to a bug in Delphi 

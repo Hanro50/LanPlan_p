@@ -1,0 +1,39 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{6B8D579F-B5E2-4032-AE16-FFFE53F8A17B}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="LanPlan_p.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Users\Hanro\Desktop\It Pat\Phase 3\LanPlan_p.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="LanPlan_p">
+			<MSBuild Projects="C:\Users\Hanro\Desktop\It Pat\Phase 3\LanPlan_p.dproj"/>
+		</Target>
+		<Target Name="LanPlan_p:Clean">
+			<MSBuild Targets="Clean" Projects="C:\Users\Hanro\Desktop\It Pat\Phase 3\LanPlan_p.dproj"/>
+		</Target>
+		<Target Name="LanPlan_p:Make">
+			<MSBuild Targets="Make" Projects="C:\Users\Hanro\Desktop\It Pat\Phase 3\LanPlan_p.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="LanPlan_p;LanPlan_p"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="LanPlan_p:Clean;LanPlan_p:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="LanPlan_p:Make;LanPlan_p:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

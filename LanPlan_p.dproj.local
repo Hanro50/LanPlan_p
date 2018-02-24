@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/11 20:57:42.592.pas,C:\Users\Hanro\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\MainMenu_u.pas</Transaction>
+    <Transaction>2017/10/11 20:57:42.592.dfm,C:\Users\Hanro\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\MainMenu_u.dfm</Transaction>
+    <Transaction>2017/10/11 20:58:04.170.dproj,C:\Users\Hanro\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Hanro\Desktop\It Pat\Phase 3\LanPlan_p.dproj</Transaction>
+    <Transaction>2017/10/11 21:34:33.044.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit1.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\MainLinkLibary_u.pas</Transaction>
+    <Transaction>2017/10/11 21:34:33.044.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit1.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\MainLinkLibary_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:32:54.149.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\MainLinkLibary_u.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMMainLinkLibary_u.pas</Transaction>
+    <Transaction>2017/10/11 22:32:54.149.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\MainLinkLibary_u.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMMainLinkLibary_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:33:07.836.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\MainMenu_u.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFMainMenu_u.pas</Transaction>
+    <Transaction>2017/10/11 22:33:07.836.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\MainMenu_u.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFMainMenu_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:33:14.010.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\login_u.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFlogin_u.pas</Transaction>
+    <Transaction>2017/10/11 22:33:14.010.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\login_u.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFlogin_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:33:27.136.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit1.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase.pas</Transaction>
+    <Transaction>2017/10/11 22:33:27.136.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit1.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase.dfm</Transaction>
+    <Transaction>2017/10/11 22:35:06.002.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase_u.pas</Transaction>
+    <Transaction>2017/10/11 22:35:06.002.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMDataBase_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:35:27.341.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit2.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGroup_u.pas</Transaction>
+    <Transaction>2017/10/11 22:35:27.341.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit2.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGroup_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:36:08.797.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit3.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMFinance.pas</Transaction>
+    <Transaction>2017/10/11 22:36:08.797.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit3.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMFinance.dfm</Transaction>
+    <Transaction>2017/10/11 22:38:10.979.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit3.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMfinance_u.pas</Transaction>
+    <Transaction>2017/10/11 22:38:10.979.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit3.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMfinance_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:39:27.929.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit2.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFBooker_u.pas</Transaction>
+    <Transaction>2017/10/11 22:39:27.929.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit2.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\GFBooker_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:55:47.387.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit4.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGeneralcal_u.pas</Transaction>
+    <Transaction>2017/10/11 22:55:47.387.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\Unit4.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGeneralcal_u.dfm</Transaction>
+    <Transaction>2017/10/11 22:55:56.200.pas,C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGeneralcal_u.pas=C:\Users\Hanro\Desktop\It Pat\Phase 3\DM\DMGeneralcal_u.pas</Transaction>
+    <Transaction>2017/10/11 22:55:56.200.dfm,C:\Users\Hanro\Desktop\It Pat\Phase 3\DMGeneralcal_u.dfm=C:\Users\Hanro\Desktop\It Pat\Phase 3\DM\DMGeneralcal_u.dfm</Transaction>
+    <Transaction>2017/10/16 17:54:59.262.pas,D:\IT Pat\Phase 3\Unit1.pas=D:\IT Pat\Phase 3\DM\DMUserAccount_u.pas</Transaction>
+    <Transaction>2017/10/16 17:54:59.262.dfm,D:\IT Pat\Phase 3\Unit1.dfm=D:\IT Pat\Phase 3\DM\DMUserAccount_u.dfm</Transaction>
+    <Transaction>2017/10/19 14:33:13.732.pas,A:\IT Pat\Phase 3\DM\DMUserAccount_u.pas=</Transaction>
+    <Transaction>2017/10/19 14:33:13.732.dfm,A:\IT Pat\Phase 3\DM\DMUserAccount_u.dfm=</Transaction>
+    <Transaction>2017/10/19 14:33:18.104.pas,A:\IT Pat\Phase 3\DM\DMGeneralcal_u.pas=</Transaction>
+    <Transaction>2017/10/19 14:33:18.104.dfm,A:\IT Pat\Phase 3\DM\DMGeneralcal_u.dfm=</Transaction>
+    <Transaction>2017/10/19 14:34:31.044.pas,A:\IT Pat\Phase 3\Unit1.pas=A:\IT Pat\Phase 3\DM\DMEvents_u.pas</Transaction>
+    <Transaction>2017/10/19 14:34:31.044.dfm,A:\IT Pat\Phase 3\Unit1.dfm=A:\IT Pat\Phase 3\DM\DMEvents_u.dfm</Transaction>
+    <Transaction>2017/10/20 16:40:52.950.pas,A:\IT Pat\Phase 3\Unit3.pas=A:\IT Pat\Phase 3\GF\GFDebug_u.pas</Transaction>
+    <Transaction>2017/10/20 16:40:52.950.dfm,A:\IT Pat\Phase 3\Unit3.dfm=A:\IT Pat\Phase 3\GF\GFDebug_u.dfm</Transaction>
+    <Transaction>2017/10/20 17:12:35.863.pas,A:\IT Pat\Phase 3\DM\DMDataBase_u.pas=A:\IT Pat\Phase 3\DM\DMAccount_u.pas</Transaction>
+    <Transaction>2017/10/20 17:12:35.863.dfm,A:\IT Pat\Phase 3\DM\DMDataBase_u.dfm=A:\IT Pat\Phase 3\DM\DMAccount_u.dfm</Transaction>
+    <Transaction>2017/10/23 12:52:49.112.pas,A:\IT Pat\Phase 3\DM\DMMainLinkLibary_u.pas=</Transaction>
+    <Transaction>2017/10/23 12:52:49.112.dfm,A:\IT Pat\Phase 3\DM\DMMainLinkLibary_u.dfm=</Transaction>
+    <Transaction>2017/10/23 12:53:01.161.pas,A:\IT Pat\Phase 3\Unit1.pas=A:\IT Pat\Phase 3\DM\DMMainLinkLibary_u.pas</Transaction>
+    <Transaction>2017/10/23 12:53:01.161.dfm,A:\IT Pat\Phase 3\Unit1.dfm=A:\IT Pat\Phase 3\DM\DMMainLinkLibary_u.dfm</Transaction>
+    <Transaction>2017/10/24 14:35:33.896.pas,A:\IT Pat\Phase 3\Unit2.pas=A:\IT Pat\Phase 3\GF\GFib_u.pas</Transaction>
+    <Transaction>2017/10/24 14:35:33.896.dfm,A:\IT Pat\Phase 3\Unit2.dfm=A:\IT Pat\Phase 3\GF\GFib_u.dfm</Transaction>
+    <Transaction>2017/10/24 15:51:22.366.pas,A:\IT Pat\Phase 3\Unit1.pas=A:\IT Pat\Phase 3\TD\THWait_u.pas</Transaction>
+    <Transaction>2017/10/24 16:43:58.322.pas,A:\IT Pat\Phase 3\TD\THWait_u.pas=</Transaction>
+    <Transaction>2017/10/24 17:10:37.590.pas,A:\IT Pat\Phase 3\Unit1.pas=A:\IT Pat\Phase 3\TD\THWait_u.pas</Transaction>
+    <Transaction>2017/10/24 17:52:33.190.pas,A:\IT Pat\Phase 3\TD\THWait_u.pas=</Transaction>
+    <Transaction>2017/10/26 07:37:59.828.pas,D:\IT Pat\Phase 3\Unit2.pas=D:\IT Pat\Phase 3\GF\GFDialog_u.pas</Transaction>
+    <Transaction>2017/10/26 07:37:59.828.dfm,D:\IT Pat\Phase 3\Unit2.dfm=D:\IT Pat\Phase 3\GF\GFDialog_u.dfm</Transaction>
+    <Transaction>2017/10/27 16:40:11.800.pas,C:\Users\Hanro\Desktop\Phase 3\DM\DMGroup_u.pas=</Transaction>
+    <Transaction>2017/10/27 16:40:11.800.dfm,C:\Users\Hanro\Desktop\Phase 3\DM\DMGroup_u.dfm=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DM"/>
+    <File Path="DM\DMAccount_u.pas"/>
+    <File Path="DM\DMAccount_u.dfm"/>
+    <File Path="DM\DMfinance_u.pas"/>
+    <File Path="DM\DMfinance_u.dfm"/>
+    <File Path="DM\DMEvents_u.pas"/>
+    <File Path="DM\DMEvents_u.dfm"/>
+    <File Path="DM\DMMainLinkLibary_u.pas"/>
+    <File Path="GF"/>
+    <File Path="GF\GFBooker_u.pas"/>
+    <File Path="GF\GFBooker_u.dfm"/>
+    <File Path="GF\GFlogin_u.pas"/>
+    <File Path="GF\GFMainMenu_u.pas"/>
+    <File Path="GF\GFMainMenu_u.dfm"/>
+    <File Path="GF\GFDebug_u.pas"/>
+    <File Path="GF\GFDebug_u.dfm"/>
+    <File Path="GF\GFBox_u.pas"/>
+    <File Path="GF\GFDialog_u.pas"/>
+    <File Path="GF\GFDialog_u.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
